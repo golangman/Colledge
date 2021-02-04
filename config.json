@@ -1,0 +1,8 @@
+{
+    "icon_path":"./assets/img/icon.png",
+    "database_name":"larionova",
+    "database_host":"localhost",
+    "database_port":3306,
+    "database_username":"root",
+    "database_password":"mama3212"
+}
